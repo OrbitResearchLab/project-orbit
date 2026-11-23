@@ -39,8 +39,7 @@ No illustrative graph should be presented as an actual experimental result.
 
 ## Figure 2: Experiment 041 — Recovery Cost Across Repeated Environmental Changes
 
-![Experiment 041 recovery cost](/Experiment 041_ Recovery Cost Across Repeated Environment Changes.png
-)
+![Experiment 041 recovery cost](ORBIT_Experiment_041_Recovery_By_Phase.png)
 
 **Description:** Comparison of mean recovery episodes across environmental phases 2–5 for RESET, Q-learning-only and BFS-guided repair.
 
