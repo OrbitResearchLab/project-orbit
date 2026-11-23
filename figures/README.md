@@ -24,7 +24,7 @@ No illustrative graph should be presented as an actual experimental result.
 
 ## Figure 1: Experiment 040C — Recovery Episodes
 
-![Experiment 041 recovery cost](<Experiment 041_ Recovery Cost Across Repeated Environment Changes.png>)
+![Experiment 040C recovery comparison](ORBIT_Experiment_040C_Recovery_Comparison.png)
 
 **Description:** Comparison of mean recovery episodes for RESET, Q-LEARNING-ONLY and BFS-GUIDED-REPAIR across four maze difficulty levels.
 
@@ -35,17 +35,4 @@ No illustrative graph should be presented as an actual experimental result.
 
 **Data presentation:** Error bars represent ±1 sample standard deviation for RESET and Q-LEARNING-ONLY.
 
----
-
-## Figure 2: Experiment 041 — Recovery Cost Across Repeated Environmental Changes
-
-![Experiment 041 recovery cost](ORBIT_Experiment_041_Recovery_By_Phase.png)
-
-**Description:** Comparison of mean recovery episodes across environmental phases 2–5 for RESET, Q-learning-only and BFS-guided repair.
-
-**Key observations:**
-- Q-learning-only recorded fewer recovery episodes than RESET in every displayed phase.
-- Q-learning-only recovery cost decreased across the displayed phases.
-- BFS-guided repair recorded zero recovery cost in the tested conditions.
-
-**Interpretation:** Retaining and updating previously learned Q-values was associated with lower recovery costs than resetting the agent in this experiment.
+ 
