@@ -24,7 +24,7 @@ No illustrative graph should be presented as an actual experimental result.
 
 ## Figure 1: Experiment 040C — Recovery Episodes
 
-![Experiment 040C recovery comparison](ORBIT_Experiment_040C_Recovery_Comparison.png)
+![Experiment 041 recovery cost](<Experiment 041_ Recovery Cost Across Repeated Environment Changes.png>)
 
 **Description:** Comparison of mean recovery episodes for RESET, Q-LEARNING-ONLY and BFS-GUIDED-REPAIR across four maze difficulty levels.
 
